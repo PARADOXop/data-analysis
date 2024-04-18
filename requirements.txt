@@ -1,0 +1,4 @@
+ SQLAlchemy 
+ pyodbc
+ pandas
+ kaggle
